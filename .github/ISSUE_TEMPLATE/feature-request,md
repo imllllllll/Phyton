@@ -1,22 +1,21 @@
 ---
-name: Nowa funkcjionalność
-about : Zaproponuj nową funkcjonalność
-title: "[FEATURE] krótki opis do uzepelnienia"
-label : enchaprh
+name: Zmiana w dokumentacji
+about : Utwórz lub aktualizuj dokumentacjie
+title: "[BUG] krótki opis do uzepelnienia"
+label : dokumentation
 assignees : ""
 ---
+# Typ dokumentacjii
+- [] Nowa dokumentacjia
+- [] Aktualizacja istnejącej dokumentacji
+- [] Poprawka istniejącej dokumentacji
 
+# Lokalizacjia
+- [] Readme
+- [] CONTRIBUSIING
+- [] API
+- [] Inne pliki
 
-# Opis funkcjialności
-krótki opis proponowanej funkcjialności
+Opisz jakie pliki   
 
-# Problem do rozwiązania
-Jaki problem rozwiązuje nowa funkcjionalność
-
-#Proponowane zochowanie
-Opis jak powinna działać taka funcjionalność 
-
-#Priorytet
-- [ ] Niski
-- [ ] Średni
-- [ ] Wysoki 
+# Dodatkowe informacje:
