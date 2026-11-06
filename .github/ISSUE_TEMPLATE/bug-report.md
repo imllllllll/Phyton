@@ -1,6 +1,6 @@
 ---
-name: zgloszenie blędu
-about : zgłoś bląd w projecie
+name: Zgłoszenie błędu
+about : Zgłoś bląd w projecie
 title: "[BUG] krótki opis do uzepelnienia"
 label : bug
 assignees : ""
@@ -11,4 +11,5 @@ Krótki i jasny opis błedu do naprawiania
 # Krótki do odwtarzania problemu
 1.Przejdż do ...
 2.Kliknij w ..
-3
+3.Wprowadż ...
+4.Zaobserwujesz błąd ...
