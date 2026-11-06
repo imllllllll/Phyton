@@ -1,0 +1,20 @@
+---
+name: Nowa funkcjionalność
+about : Zaproponuj nową funkcjonalność
+title: "[FEATURE] krótki opis do uzepelnienia"
+label : enchaprh
+assignees : ""
+---
+# Opis funkcjialności
+krótki opis proponowanej funkcjialności
+
+# Problem do rozwiązania
+Jaki problem rozwiązuje nowa funkcjionalność
+
+#Proponowane zochowanie
+Opis jak powinna działać taka funcjionalność 
+
+#Priorytet
+- [ ] Niski
+- [ ] Średni
+- [ ] Wysoki 
