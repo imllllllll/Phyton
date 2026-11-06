@@ -1,21 +1,23 @@
 ---
-name: Zmiana w dokumentacji
-about : Utwórz lub aktualizuj dokumentacjie
-title: "[BUG] krótki opis do uzepelnienia"
-label : dokumentation
+name: Zmiana w funcjialnośći
+about : Nowa funckcnjionalność
+title: "[function] krótki opis do uzepelnienia"
+label : funkcion
 assignees : ""
 ---
-# Typ dokumentacjii
-- [] Nowa dokumentacjia
-- [] Aktualizacja istnejącej dokumentacji
-- [] Poprawka istniejącej dokumentacji
+## Opis funkcjonalnośći
+Krotki i jasny opis funkcjonalnośći
 
-# Lokalizacjia
-- [] Readme
-- [] CONTRIBUSIING
-- [] API
-- [] Inne pliki
+## Problem do rozwązania
+Jaki problem rozwązuje nowa funkcjonalnośći
 
-Opisz jakie pliki   
+## Proponowanie zachowalne
+Opis jak powinna dzialac taka funkcja
 
-# Dodatkowe informacje:
+## Priorytet
+- [ ] Niski
+- [ ] Sredni
+- [ ] Wysoki
+
+## Dodatkowa informacja 
+Wszystkie dodatkowe uwagi
