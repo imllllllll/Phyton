@@ -6,9 +6,9 @@ label : dokumentation
 assignees : ""
 ---
 # Typ dokumentacjii
-- [] Nowa dokumentacjia
-- [] Aktualizacja istnejącej dokumentacji
-- [] Poprawka istniejącej dokumentacji
+ [] Nowa dokumentacjia
+ [] Aktualizacja istnejącej dokumentacji
+ [] Poprawka istniejącej dokumentacji
 
 # Lokalizacjia
 - [] Readme
